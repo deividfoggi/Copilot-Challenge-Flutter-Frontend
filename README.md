@@ -59,11 +59,6 @@ flutter run --flavor dev
 flutter run --flavor prod
 ```
 
-## 🏗️ Ambientes
-
-- **dev**: Ambiente de desenvolvimento
-- **prod**: Ambiente de produção
-
 ## 📝 Padrões de Código
 
 - Usar `const` sempre que possível
